@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "price": "400",
+    "image": "https://plus.unsplash.com/premium_photo-1667682942148-a0c98d1d70db?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "price": "200",
+    "image": "https://plus.unsplash.com/premium_photo-1672498294724-dde3b2e41e19?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Garden Special",
+    "price": "700",
+    "image": "https://plus.unsplash.com/premium_photo-1673439305009-821f62df6d31?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Hawaiian",
+    "price": "650",
+    "image": "https://plus.unsplash.com/premium_photo-1672498268734-0f41e888298d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "7 Cheese",
+    "price": "900",
+    "image": "https://plus.unsplash.com/premium_photo-1664297671969-c684df8c1d89?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
